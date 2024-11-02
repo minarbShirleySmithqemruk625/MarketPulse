@@ -1,1 +1,1 @@
-# MarketPulse
+# MarketPulseMarketPulseIntroduction
