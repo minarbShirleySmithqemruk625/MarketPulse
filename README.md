@@ -1,2 +1,3 @@
 # MarketPulseMarketPulseIntroduction
 MarketingObjectives
+SetupGuide
