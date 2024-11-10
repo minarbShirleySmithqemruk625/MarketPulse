@@ -2,3 +2,4 @@
 MarketingObjectives
 SetupGuide
 CampaignFeatures
+DependenciesList
