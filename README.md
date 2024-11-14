@@ -4,3 +4,4 @@ SetupGuide
 CampaignFeatures
 DependenciesList
 CodeExamples
+ConfigurationSettings
