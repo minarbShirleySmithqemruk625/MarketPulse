@@ -5,3 +5,4 @@ CampaignFeatures
 DependenciesList
 CodeExamples
 ConfigurationSettings
+ContributionGuide
