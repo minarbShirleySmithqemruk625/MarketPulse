@@ -9,3 +9,4 @@ ContributionGuide
 ErrorHandling
 LicenseDetails
 MarketingFAQ
+Changelog
