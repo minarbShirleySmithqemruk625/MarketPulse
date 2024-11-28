@@ -11,3 +11,4 @@ LicenseDetails
 MarketingFAQ
 Changelog
 TestingInstructions
+CampaignPerformance
