@@ -12,3 +12,4 @@ MarketingFAQ
 Changelog
 TestingInstructions
 CampaignPerformance
+CommunityResources
